@@ -37,7 +37,7 @@ Additionally, if you're testing a test version please complete the [smoke test](
 
 
 ## Testing the development version
-If you want to test the next Freeplane version developpers are working on (also called preview version), please refer to [use and download preview version](https://www.freeplane.org/wiki/index.php/Freeplane_1.2.x-1.3.x).
+If you want to test the next Freeplane version developers are working on (also called preview version), please refer to [use and download preview version](https://www.freeplane.org/wiki/index.php/Freeplane_1.2.x-1.3.x).
 
 
 <!-- ({Category:Coding}) -->
